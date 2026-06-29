@@ -82,19 +82,39 @@ The repository aims to demonstrate:
 
 ## 📬 Contact
 
-For questions, collaboration, or further information, feel free to contact us:
+Have questions, collaboration ideas, or need further information? We'd be happy to hear from you!
 
-- **Hesam Rezaee Ahvanouee**  
-  Ruhr University Bochum
-  📧 [hesam.rezaeeahvanouee@rub.de](mailto:hesam.rezaeeahvanouee@rub.de)
+<table>
+<tr>
+<td width="33%" valign="top">
 
-- **Jingxi Zhang, M.Sc.**   
-  University of Stuttgart  
-  📧 [jingxi.zhang@isw.uni-stuttgart.de](mailto:jingxi.zhang@isw.uni-stuttgart.de)
+### 👨‍💻 Hesam Rezaee Ahvanouee
+**Ruhr University Bochum**
 
-- **Marcel Auer, M.Sc.**  
-  Karlsruhe Institute of Technology (KIT)
-  📧 [marcel.auer@kit.edu](mailto:marcel.auer@kit.edu)
+📧 **Email:**  
+[hesam.rezaeeahvanouee@rub.de](mailto:hesam.rezaeeahvanouee@rub.de)
+
+</td>
+<td width="33%" valign="top">
+
+### 👨‍🎓 Jingxi Zhang, M.Sc.
+**University of Stuttgart**
+
+📧 **Email:**  
+[jingxi.zhang@isw.uni-stuttgart.de](mailto:jingxi.zhang@isw.uni-stuttgart.de)
+
+</td>
+<td width="33%" valign="top">
+
+### 👨‍🔬 Marcel Auer, M.Sc.
+**Karlsruhe Institute of Technology (KIT)**
+
+📧 **Email:**  
+[marcel.auer@kit.edu](mailto:marcel.auer@kit.edu)
+
+</td>
+</tr>
+</table>
 
 
 
