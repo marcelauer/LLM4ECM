@@ -80,46 +80,28 @@ The repository aims to demonstrate:
 
 
 
+```markdown
 ## 📬 Contact
 
-Have questions, collaboration ideas, or need further information? We'd be happy to hear from you!
+Have questions, collaboration ideas, or need further information? We'd be happy to hear from you.
 
-<table>
-<tr>
-<td width="33%" valign="top">
+### 👨‍💻 Hesam Rezaee Ahvanouee
+**🏛️ Affiliation:** Ruhr University Bochum  
+**📧 Email:** [hesam.rezaeeahvanouee@rub.de](mailto:hesam.rezaeeahvanouee@rub.de)
 
-<h3>👨‍💻 Hesam Rezaee Ahvanouee</h3>
+---
 
-<p><strong>Ruhr University Bochum</strong><br>&nbsp;</p>
+### 👨‍💻 Jingxi Zhang, M.Sc.
+**🏛️ Affiliation:** University of Stuttgart  
+**📧 Email:** [jingxi.zhang@isw.uni-stuttgart.de](mailto:jingxi.zhang@isw.uni-stuttgart.de)
 
-📧 <strong>Email</strong><br>
-<a href="mailto:hesam.rezaeeahvanouee@rub.de">hesam.rezaeeahvanouee@rub.de</a>
+---
 
-</td>
+### 👨‍💻 Marcel Auer, M.Sc.
+**🏛️ Affiliation:** Karlsruhe Institute of Technology (KIT)  
+**📧 Email:** [marcel.auer@kit.edu](mailto:marcel.auer@kit.edu)
+```
 
-<td width="33%" valign="top">
-
-<h3>👨‍🎓 Jingxi Zhang, M.Sc.</h3>
-
-<p><strong>University of Stuttgart</strong><br>&nbsp;</p>
-
-📧 <strong>Email</strong><br>
-<a href="mailto:jingxi.zhang@isw.uni-stuttgart.de">jingxi.zhang@isw.uni-stuttgart.de</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-<h3>👨‍🔬 Marcel Auer, M.Sc.</h3>
-
-<p><strong>Karlsruhe Institute of Technology (KIT)</strong></p>
-
-📧 <strong>Email</strong><br>
-<a href="mailto:marcel.auer@kit.edu">marcel.auer@kit.edu</a>
-
-</td>
-</tr>
-</table>
 
 
 
