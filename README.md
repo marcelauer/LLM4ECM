@@ -85,8 +85,17 @@ The repository aims to demonstrate:
 For questions, collaboration, or further information, feel free to contact us:
 
 - **Hesam Rezaee Ahvanouee**  
-  Ruhr-University Bochum, Chair of Automation  
+  Ruhr University Bochum
   📧 [hesam.rezaeeahvanouee@rub.de](mailto:hesam.rezaeeahvanouee@rub.de)
+
+- **Jingxi Zhang, M.Sc.**   
+  University of Stuttgart  
+  📧 [jingxi.zhang@isw.uni-stuttgart.de](mailto:jingxi.zhang@isw.uni-stuttgart.de)
+
+- **Marcel Auer, M.Sc.**  
+  Karlsruhe Institute of Technology (KIT)
+  📧 [marcel.auer@kit.edu](mailto:marcel.auer@kit.edu)
+
 
 
 
