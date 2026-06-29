@@ -80,27 +80,19 @@ The repository aims to demonstrate:
 
 
 
-```markdown
 ## 📬 Contact
 
-Have questions, collaboration ideas, or need further information? We'd be happy to hear from you.
+- 👨‍💻 **Hesam Rezaee Ahvanouee**  
+  🏛️ Ruhr University Bochum  
+  📧 hesam.rezaeeahvanouee@rub.de
 
-### 👨‍💻 Hesam Rezaee Ahvanouee
-**🏛️ Affiliation:** Ruhr University Bochum  
-**📧 Email:** [hesam.rezaeeahvanouee@rub.de](mailto:hesam.rezaeeahvanouee@rub.de)
+- 👨‍💻 **Jingxi Zhang, M.Sc.**  
+  🏛️ University of Stuttgart  
+  📧 jingxi.zhang@isw.uni-stuttgart.de
 
----
-
-### 👨‍💻 Jingxi Zhang, M.Sc.
-**🏛️ Affiliation:** University of Stuttgart  
-**📧 Email:** [jingxi.zhang@isw.uni-stuttgart.de](mailto:jingxi.zhang@isw.uni-stuttgart.de)
-
----
-
-### 👨‍💻 Marcel Auer, M.Sc.
-**🏛️ Affiliation:** Karlsruhe Institute of Technology (KIT)  
-**📧 Email:** [marcel.auer@kit.edu](mailto:marcel.auer@kit.edu)
-```
+- 👨‍💻 **Marcel Auer, M.Sc.**  
+  🏛️ Karlsruhe Institute of Technology (KIT)  
+  📧 marcel.auer@kit.edu
 
 
 
