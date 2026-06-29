@@ -86,11 +86,11 @@ The repository aims to demonstrate:
   🏛️ Ruhr University Bochum  
   📧 hesam.rezaeeahvanouee@rub.de
 
-- 👨‍💻 **Jingxi Zhang, M.Sc.**  
+- 👨‍💻 **Jingxi Zhang**  
   🏛️ University of Stuttgart  
   📧 jingxi.zhang@isw.uni-stuttgart.de
 
-- 👨‍💻 **Marcel Auer, M.Sc.**  
+- 👨‍💻 **Marcel Auer**  
   🏛️ Karlsruhe Institute of Technology (KIT)  
   📧 marcel.auer@kit.edu
 
