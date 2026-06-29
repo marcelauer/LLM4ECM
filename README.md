@@ -88,29 +88,34 @@ Have questions, collaboration ideas, or need further information? We'd be happy 
 <tr>
 <td width="33%" valign="top">
 
-### 👨‍💻 Hesam Rezaee Ahvanouee
-**Ruhr University Bochum**
+<h3>👨‍💻 Hesam Rezaee Ahvanouee</h3>
 
-📧 **Email:**  
-[hesam.rezaeeahvanouee@rub.de](mailto:hesam.rezaeeahvanouee@rub.de)
+<p><strong>Ruhr University Bochum</strong><br>&nbsp;</p>
 
-</td>
-<td width="33%" valign="top">
-
-### 👨‍🎓 Jingxi Zhang, M.Sc.
-**University of Stuttgart**
-
-📧 **Email:**  
-[jingxi.zhang@isw.uni-stuttgart.de](mailto:jingxi.zhang@isw.uni-stuttgart.de)
+📧 <strong>Email</strong><br>
+<a href="mailto:hesam.rezaeeahvanouee@rub.de">hesam.rezaeeahvanouee@rub.de</a>
 
 </td>
+
 <td width="33%" valign="top">
 
-### 👨‍🔬 Marcel Auer, M.Sc.
-**Karlsruhe Institute of Technology (KIT)**
+<h3>👨‍🎓 Jingxi Zhang, M.Sc.</h3>
 
-📧 **Email:**  
-[marcel.auer@kit.edu](mailto:marcel.auer@kit.edu)
+<p><strong>University of Stuttgart</strong><br>&nbsp;</p>
+
+📧 <strong>Email</strong><br>
+<a href="mailto:jingxi.zhang@isw.uni-stuttgart.de">jingxi.zhang@isw.uni-stuttgart.de</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>👨‍🔬 Marcel Auer, M.Sc.</h3>
+
+<p><strong>Karlsruhe Institute of Technology (KIT)</strong></p>
+
+📧 <strong>Email</strong><br>
+<a href="mailto:marcel.auer@kit.edu">marcel.auer@kit.edu</a>
 
 </td>
 </tr>
