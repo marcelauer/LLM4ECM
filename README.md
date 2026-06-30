@@ -82,11 +82,19 @@ The repository aims to demonstrate:
 
 ## 📬 Contact
 
-For questions, collaboration, or further information, feel free to contact us:
+- 👨‍💻 **Hesam Rezaee Ahvanouee**  
+  🏛️ Ruhr University Bochum  
+  📧 hesam.rezaeeahvanouee@rub.de
 
-- **Hesam Rezaee Ahvanouee**  
-  Ruhr-University Bochum, Chair of Automation  
-  📧 [hesam.rezaeeahvanouee@rub.de](mailto:hesam.rezaeeahvanouee@rub.de)
+- 👨‍💻 **Jingxi Zhang**  
+  🏛️ University of Stuttgart  
+  📧 jingxi.zhang@isw.uni-stuttgart.de
+
+- 👨‍💻 **Marcel Auer**  
+  🏛️ Karlsruhe Institute of Technology (KIT)  
+  📧 marcel.auer@kit.edu
+
+
 
 
 
